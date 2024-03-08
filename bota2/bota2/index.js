@@ -25,7 +25,7 @@ const start = async () => {
       try {
       //console.log(gradient('red', 'red')('💀■■■■■■■💀 +' + ddi + number))
       console.clear();
-      console.log(gradient('red', 'blue')('💀UNAVAILABLE CODE BY RAMIRES💀 +' + ddi + number))
+      console.log(gradient('red', 'blue')('💀Number Locking by @ransomxrend3ro💀 +' + ddi + number))
         res = await spam.requestRegistrationCode({
           phoneNumber: '+' + phoneNumber,
           phoneNumberCountryCode: ddi,
