@@ -1,9 +1,9 @@
 # WhatsApp-Lock-V1 Coded By @ransomxrend3ro
 
  
-git clone https://github.com/REND3RO/WhatsApp-Lock-V1.git
+git clone https://github.com/REND3RO/WA-Lock.git
 
-cd WhatsApp-Lock-V1
+cd WA-Lock
 cd bota2
 cd bota2
 node index.js
