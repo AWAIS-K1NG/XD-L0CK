@@ -3,9 +3,13 @@
  
 git clone https://github.com/AWAIS-K1NG/XD-L0CK.git
 
+
 cd XD-LOCK
+
 cd bota2
+
 cd bota2
+
 node index.js
 
 # READ GIVEN BELOW FOR NEW USER'S #
