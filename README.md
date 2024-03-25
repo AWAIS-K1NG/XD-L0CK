@@ -1,19 +1,22 @@
-# WhatsApp-Lock-V1 Coded By @ransomxrend3ro
+•OTP LOCK TOOL BY XD GANGSTER'S•
 
  
-git clone https://github.com/REND3RO/WA-Lock.git
+git clone https://github.com/AWAIS-K1NG/XD-L0CK.git
 
-cd WA-Lock
+cd XD-LOCK
 cd bota2
 cd bota2
 node index.js
 
-# How To Use?
-First Enter Your Country Code Like 91 Enter Without +
+# READ GIVEN BELOW FOR NEW USER'S #
+FIRST ENTER COUNTRY CODE 92 WITHOUT + AND ENTER
 
-Enter Your Number Without Country Code Like 1234567890
+THEN ENTER TARGET NUMBER WITHOUT COUNTRY CODE OR + AND ENTER
 
+IF YOU HAVE ANY QUESTION FEEL FREE TO ASK ME ON TELEGRAM
+ID :- t.me/MR_AWAIS777
+ID2 :- t.me/MR_AWAIS999
 
-If You Face Any Issue
-Contact Me On TG:- @ransomxrend3ro
-              IG:- @ransomxrend3rl
+DON'T FORGET TO JOIN t.me/xd_gang
+
+# THANKS TO ALL #
